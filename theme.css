@@ -109,3 +109,9 @@ input:checked + .slider:before {
 .slider.round:before {
   border-radius: 50%;
 }
+
+.container p {
+  color: var(--font-color);
+  font-family: sans-serif;
+  padding-top: 20px;
+}
